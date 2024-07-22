@@ -1,6 +1,7 @@
 # Epic Stats Remastered
 
-Developer: Felina_Catness 
+Developer: Felina_Catness Discord name: felina_awawa
+
 Original Developer: BladeMasterX
 
 This is the source code of ESR for 1.20.1
