@@ -1,6 +1,7 @@
 # Epic Stats Remastered
 
-Developer: Felina_Catness Discord name: felina_awawa
+Developer: Felina_Catness 
+Discord name: felina_awawa
 
 Original Developer: BladeMasterX
 
