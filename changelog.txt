@@ -1,0 +1,10 @@
+1.1.2
+
+Removed the item scanning in the gui
+Added Icons and remastered weight system
+set stat 6 config max to 3
+added new entry to compat negator
+added tag and exp type
+added trigger when player enter world to avoid book bug
+added gui info for stats
+added weight limit default value
