@@ -1,0 +1,9 @@
+{
+  "parent": "epic_stats_mod_remastered:custom/engiru",
+  "textures": {
+    "all": "epic_stats_mod_remastered:block/engiru",
+    "particle": "epic_stats_mod_remastered:block/engiru",
+    "3": "epic_stats_mod_remastered:block/engiru"
+  },
+  "render_type": "cutout"
+}

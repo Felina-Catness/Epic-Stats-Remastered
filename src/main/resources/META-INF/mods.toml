@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="epic_stats_mod_remastered"
+version="1.1.2"
+displayName="Epic Stats Mod Remastered"
+displayURL="https://awawa.net"
+logoFile="logo.png"
+credits="Engiru, Derek179"
+authors="Felina_Catness"
+description="A RPG stats for Minecraft"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.epic_stats_mod_remastered]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

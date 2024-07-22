@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "epic_stats_mod_remastered:blocks/engiru",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "epic_stats_mod_remastered:engiru"
+        }
+      ]
+    }
+  ]
+}

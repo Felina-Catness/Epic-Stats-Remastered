@@ -1,0 +1,19 @@
+{
+  "book": {
+    "subtitle": "subtitles.book",
+    "sounds": [
+      {
+        "name": "epic_stats_mod_remastered:book3",
+        "stream": false
+      },
+      {
+        "name": "epic_stats_mod_remastered:book1",
+        "stream": false
+      },
+      {
+        "name": "epic_stats_mod_remastered:book2",
+        "stream": false
+      }
+    ]
+  }
+}

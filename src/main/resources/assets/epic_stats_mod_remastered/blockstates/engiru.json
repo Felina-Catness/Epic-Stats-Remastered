@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "epic_stats_mod_remastered:block/engiru"
+    },
+    "facing=east": {
+      "model": "epic_stats_mod_remastered:block/engiru",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "epic_stats_mod_remastered:block/engiru",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "epic_stats_mod_remastered:block/engiru",
+      "y": 270
+    }
+  }
+}
